@@ -1,3 +1,4 @@
+![KSVG Logo](https://github.com/TonyJian-KSVG/KSVG.github.io/raw/main/KSVG%E5%BE%BD%E6%A0%87-%E7%99%BD%E5%BA%95.png)
 # 康桥学校学生摄影和摄像合作组织
 ### KCISEC_KSVG™ 内部资源网
 ***
