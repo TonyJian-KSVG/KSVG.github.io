@@ -1,18 +1,18 @@
-# Kang Chiao School Kunshan Campus Students Videography and Photography Cooperation Organization
-<p>KCISEC_KSVG™ Internal Resource Network</p>
-
+# 康桥学校学生摄影和摄像合作组织
+### KCISEC_KSVG™ 内部资源网
+***
 <details><summary>关于摄制的工作流程标准 The Execution Standard for Workflows</summary>
-  <p>**拍摄前 Before Filming**</p>
+ <p>拍摄前 Before Filming</p>
    <p>1.在拍摄前，需要提前一天晚上提交设备，并将设备信息登记在微信群组内发放的腾讯文档中(仅用于核实设备信息)；</p>
    <p>2.在提交设备前，请确保存储卡内的数据均已导出，如因未提前导出而导致的数据丢失，KCISEC_KSVG™均不负责；</p>
    <p>3.在拍摄前的规定时间内，请在微信群组内的群接龙登记参加本次活动拍摄的意愿(愿意填写参加，不愿意填写不参加和原因)，本项用于核对人员信息和申请公假；</p>
    <p>4.拍摄前一个晚上，确认电池，相机(包括按键，显示器，感光元件和触点等)，存储卡等设备的完好性和功能性，并给电池组充电；</p>
    <p>5.拍摄前一个晚上，确认相机的参数：视频(PAL XAVC 4K 25P 25fps 10bit)，照片(PAL 3:2&16:9 JPEG X.FINE)；</p>
- <p>**拍摄时 In Filming**</p>
+ <p>拍摄时 In Filming</p>
    <p>1.一般的活动拍摄任务分配为两个摄像师和若干摄影师；</p>
    <p>2.摄像师-A的任务为拍摄大范围运镜镜头，摄像师-B的任务为拍摄固定或小范围平缓的运镜镜头；</p>
    <p>3.摄影师需要拍摄贵宾的大特写，观众的特写，选手的全景和特写等。拍摄时注意对焦焦点，构图和曝光。；</p>
- <p>**数字影像工程师 DIT**</p>
+ <p>数字影像工程师 DIT</p>
    <p>1.DIT的任务是在拍摄完成后的拷卡。</p>
   <p>拷卡标准：</p>
   <p>-第一备份需要在PSSD（移动固态硬盘）上备份，且在未来五天内需要上传到阿里云盘备份；</p>
